@@ -32,8 +32,7 @@ return (array [index])
 }
 
 function destructivelyAddElementToBeginningOfArray (array){
-array.shift() 
+array.shift()
 return array
 }
-
 
